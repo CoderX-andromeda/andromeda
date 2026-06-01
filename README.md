@@ -46,7 +46,7 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 * **Design Focus:** Bridging hardware constraints with control logic and precision sensor inputs.
 
 <p align="center">
-  <img src="1000084052.jpg" width="600" alt="First working robot">
+  <img src="ARC_UM-robot.jpg" width="600" alt="First working robot">
 </p>
 
 #### 🌍 EarthQuake Detector (High School Project)
@@ -56,7 +56,7 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 * **Significance:** This was my first foray into physical computing, sparking my current passion for hardware engineering.
 
 <p align="center">
-  <img src="1000013441.jpg" width="600" alt="High School Arduino Project">
+  <img src="Earthquake_detector_project.jpg" width="600" alt="High School Arduino Project">
 </p>
 
 #### 🛢️ Oil Quality Sensor Wand Prototype
@@ -71,7 +71,7 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 ### 🔭 What I'm Working On
 * 🌱 **Learning:** Deepening my understanding of **C Programming** and making the jump into the STM32 Nucleo environment.
 * 🎯 **Current Goal:** Mastering sensor inputs and control logic for automated robotics systems.
-* 📫 **How to reach me:** [Insert your email or LinkedIn link here]
+* 📫 **How to reach me:** [nayelyteh4u@gmail.com] [www.linkedin.com/in/teh-jia-xin-8a393a400]
 
 ---
 <p align="center">
