@@ -46,7 +46,7 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 * **Design Focus:** Bridging hardware constraints with control logic and precision sensor inputs.
 
 <p align="center">
-  <img src="ARC_UM-robot.jpg" width="600" alt="First working robot">
+  <img width="600" height="800" alt="First robot project" src="https://github.com/user-attachments/assets/8cdd9ce5-395c-44dd-b408-5df71d7354f2" />
 </p>
 
 #### 🌍 EarthQuake Detector (High School Project)
@@ -56,7 +56,7 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 * **Significance:** This was my first foray into physical computing, sparking my current passion for hardware engineering.
 
 <p align="center">
-  <img src="Earthquake_detector_project.jpg" width="600" alt="High School Arduino Project">
+  <img width="900" height="600" alt="High school Arduino project" src="https://github.com/user-attachments/assets/64184810-6eaa-49ac-8658-b4d09ef1bf92" />
 </p>
 
 #### 🛢️ Oil Quality Sensor Wand Prototype
@@ -75,5 +75,5 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=99F0E3&text_color=c9d1d9&icon_color=99F0E3&border_color=30363d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=99F0E3&text_color=c9d1d9&icon_color=99F0E3&border_color=30363d" alt="CoderX-andromeda" />
 </p>
