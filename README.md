@@ -1,7 +1,7 @@
 ## Hi there👋, Welcome to Andromeda's profile repository🔥!
 ***** Introduction of myself *****
 # My name is Teh Jia Xin👋
-## Born in MALAYSIA <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/91de3880-8681-4246-835a-4237c898dbec" />
+## Born in MALAYSIA <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/91de3880-8681-4246-835a-4237c898dbec" />
 
 ### ⚙️ Computer Engineering Student | Mechatronics Enthusiast
 
