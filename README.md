@@ -38,15 +38,15 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 
 ### 🏆 Highlight Reel: Featured Builds
 
-#### 🤖 Automated Pick-and-Place Warehouse Robot
+#### 🤖 Automated Pick-and-Place Robot
 *An industrial-level autonomous robot designed for warehouse automation and logistics.*
 
-* **Hardware Integration:** Built utilizing Arduino and STM32, interfacing with an MPU6050 IMU, LSA08 modules, motor drivers, and ultrasonic input sensors for spatial awareness.
+* **Hardware Integration:** Customizing PCB as the robot base, utilizing Arduino and STM32, interfacing with an MPU6050 IMU, LSA08 modules, motor drivers and ultrasonic input sensors for spatial awareness.
 * **Engineering Constraints:** Successfully designed the chassis and logic to package the entire electromechanical system within a strict **190mm footprint constraint**.
 * **Design Focus:** Bridging hardware constraints with control logic and precision sensor inputs.
 
 <p align="center">
-  <img width="600" height="800" alt="First robot project" src="https://github.com/user-attachments/assets/8cdd9ce5-395c-44dd-b408-5df71d7354f2" />
+  <img width="670" height="585" alt="Pick and place robot project" src="https://github.com/user-attachments/assets/3686534e-d898-4888-8cbd-54ec569bd9b7" />
 </p>
 
 #### 🌍 EarthQuake Detector (High School Project)
@@ -66,6 +66,9 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 * **Design Focus:** CAD modeling and material selection for reliable fluid analysis and robust physical housing.
 * **Status:** Prototyping & iteration phase.
 
+<p align="center">
+  <img width="565" height="333" alt="Prototype casing" src="https://github.com/user-attachments/assets/0e849c70-8f52-478b-a6a6-c32654883cca" />
+</p>
 ---
 
 ### 🔭 What I'm Working On
