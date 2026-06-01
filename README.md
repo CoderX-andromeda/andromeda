@@ -74,7 +74,7 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 ### 🔭 What I'm Working On
 * 🌱 **Learning:** Deepening my understanding of **C Programming** and making the jump into the STM32 Nucleo environment.
 * 🎯 **Current Goal:** Mastering sensor inputs and control logic for automated robotics systems.
-* 📫 **How to reach me:** [nayelyteh4u@gmail.com] [www.linkedin.com/in/teh-jia-xin-8a393a400]
+* 📫 **How to reach me:** [nayelyteh4u@gmail.com] [www.linkedin.com/in/teh-jia-xin-8a393a400] [https://github.com/CoderX-andromeda]
 
 ---
 <p align="center">
