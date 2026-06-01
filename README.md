@@ -78,5 +78,6 @@ When I'm not focused on academics, I am serving as an executive member of the Mu
 
 ---
 <p align="center">
-  <<img width="15" height="15" alt="Github-Logo-PNG-Photos" src="https://github.com/user-attachments/assets/685caace-ac70-41b6-a81c-4bf6c93a0d0a" /><username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=99F0E3&text_color=c9d1d9&icon_color=99F0E3&border_color=30363d" alt="CoderX-andromeda" />
+  <<img width="15" height="15" alt="Github-Logo-PNG-Photos" src="https://github.com/user-attachments/assets/685caace-ac70-41b6-a81c-4bf6c93a0d0a" />
+    < username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=99F0E3&text_color=c9d1d9&icon_color=99F0E3&border_color=30363d" alt="CoderX-andromeda" />
 </p>
